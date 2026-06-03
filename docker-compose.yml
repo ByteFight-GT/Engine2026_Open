@@ -1,0 +1,12 @@
+services:
+  engine:
+    build:
+      context: ./
+    restart: unless-stopped
+
+    cpus: "2.0"
+    mem_limit: 2g
+
+    deploy:
+      mode: replicated
+      replicas: ${NUM_REPLICAS}
