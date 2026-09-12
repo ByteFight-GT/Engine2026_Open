@@ -39,6 +39,8 @@ Please include:
 This policy covers the ByteFight 2026 Engine and its official runtime,
 sandboxing, packaging, and match-execution components.
 
+Discovering or exploiting a security vulnerability to gain an unfair competitive advantage, access another participant's submission or data, or interfere with competition infrastructure is not permitted, even if the vulnerability is within the scope of this policy
+
 Research must avoid access to, modification of, or disruption to accounts,
 submissions, matches, systems, or data that you do not own or are not
 explicitly authorized to test. Avoid denial-of-service testing, persistence,
