@@ -5,6 +5,11 @@
 Security fixes are developed only for the currently supported engine release
 and the engine version deployed for the current competition, if different.
 
+ByteFight competition engines are not necessarily supported across
+competition years. In particular, an engine released for a previous
+competition may become unsupported when a new competition engine is
+adopted.
+
 Older releases, archived versions, and superseded competition engines are not
 supported and will not receive backported patches. When a report affects an
 unsupported version, maintainers may provide upgrade guidance, a mitigation,
